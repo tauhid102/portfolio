@@ -1,0 +1,7 @@
+.navbar-expand-lg .navbar-collapse {
+  flex-direction: row-reverse;
+  font-weight: 600;
+}
+.menu{
+  cursor: pointer;
+}
